@@ -7,7 +7,7 @@ import org.junit.jupiter.api.function.Executable;
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class CapacityManagement {
+public class CapacityManagementTests {
 
     @Test
     @DisplayName("Test array extension")
